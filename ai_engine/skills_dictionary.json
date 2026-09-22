@@ -1,0 +1,17 @@
+{
+    "Python": ["python", "python3", "python programming", "py"],
+    "SQL": ["sql", "structured query language", "tsql", "plsql", "mysql", "postgresql"],
+    "PostgreSQL": ["postgres", "postgresql", "postgre"],
+    "Apache Airflow": ["airflow", "apache airflow", "airflow dag"],
+    "Apache Spark": ["spark", "pyspark", "apache spark"],
+    "AWS": ["aws", "amazon web services", "amazon aws"],
+    "Docker": ["docker", "docker containerization", "dockerization"],
+    "Git": ["git", "github", "gitlab", "version control"],
+    "React.js": ["react", "react.js", "reactjs", "react js"],
+    "FastAPI": ["fastapi", "fast api"],
+    "Flutter": ["flutter", "dart flutter"],
+    "Machine Learning": ["ml", "machine learning", "sklearn", "scikit-learn"],
+    "Deep Learning": ["deep learning", "dl", "pytorch", "tensorflow", "keras"],
+    "Pandas": ["pandas", "pd"],
+    "NumPy": ["numpy", "np"]
+}
